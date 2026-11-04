@@ -1,0 +1,8 @@
+include "input.kdl"
+include "looks.kdl"
+include "rules.kdl"
+include "monitor.kdl"
+include "autostart.kdl"
+include "misc.kdl"
+
+
